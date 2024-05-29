@@ -1,9 +1,8 @@
-# **Index File**
-
-
+# **Akshay Yewle**
 # **Profile**
-* Profile Picture
-* Akshay Yewle
+!['Profile Picture'](20231017_161025.jpg)
+
+[LinkedIn](https://www.linkedin.com/in/akshayyewle) [Github](https://github.com/akshayyewle) [Fiver](https://www.fiverr.com/akshayyewle)
 
 I have about 10 years of professional experience in the field of New Product Design & Technology Development. I have also handled Project Management aspect of these projects for the last 4-5 years while being a spectator for the product management strategies played out by our marketing team. I see all 3 domains - Engineering Design, Project Management & Product Management as a part of a necessary mix for product launches that are successful on both the technically & commercially fronts.
 
@@ -17,4 +16,5 @@ XYZ
 # **Projects**
 Project Domains
 
-[Marketing Analytics] (marketing.md)
+# **Link To marketing.md file**
+[Marketing](marketing.md)
